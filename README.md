@@ -12,7 +12,7 @@ Proje demosunu görmek için: [cv.ahmetbalkan.com.tr](http://cv.ahmetbalkan.com.
 
 Lütfen unutmayın, bu demo eksik özelliklere sahip olup bitmemiş bir projeyi temsil etmektedir.
 
-----------------------------------------------------------------------------------------------
+----
 ## Isportal
 #Job Finding Platform for Earthquake-Affected Individuals | Freelance Project | Date: 01.03.2023 - 20.08.2023
 
