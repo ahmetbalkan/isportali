@@ -15,16 +15,16 @@ Proje demosunu görmek için: [cv.ahmetbalkan.com.tr](http://cv.ahmetbalkan.com.
 Lütfen unutmayın, bu demo eksik özelliklere sahip olup bitmemiş bir projeyi temsil etmektedir.
 
 ----------------------------------------------------------------------------------------------
-Isportal
+## Isportal
 #Job Finding Platform for Earthquake-Affected Individuals | Freelance Project | Date: 01.03.2023 - 20.08.2023
 
 Developed a job-finding platform for individuals affected by earthquakes as a freelance project for a company. I prepared an application optimized for both mobile and web platforms using Flutter. While the project was 80% complete, it was canceled by the company. As a result, there are some shortcomings in the project. However, I took this opportunity to publish the project on GitHub for the community to benefit from.
 
 
-Source Code
+## Source Code
 You can access the source code of the project here: [GitHub](ProjenizinGitHubLinki)
 
-Demo
+## Demo
 To view the project demo: [cv.ahmetbalkan.com.tr](http://cv.ahmetbalkan.com.tr)
 
 Please note that this demo represents an incomplete project with missing features.
