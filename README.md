@@ -14,11 +14,11 @@ Proje demosunu görmek için: [cv.ahmetbalkan.com.tr](http://cv.ahmetbalkan.com.
 Lütfen unutmayın, bu demo eksik özelliklere sahip olup bitmemiş bir projeyi temsil etmektedir.
 
 ### render:
-Web: flutter build web --web-renderer html
+**Web:** flutter build web --web-renderer html
 
-Android flutter build appbundle
+**Android** flutter build appbundle
 
-IOS: flutter build ios
+**IOS:** flutter build ios
 
 ## Engilish:
 ## Isportal
@@ -33,8 +33,8 @@ To view the project demo: [cv.ahmetbalkan.com.tr](http://cv.ahmetbalkan.com.tr)
 Please note that this demo represents an incomplete project with missing features.
 
 ### render:
-Web: flutter build web --web-renderer html
+**Web:** flutter build web --web-renderer html
 
-Android flutter build appbundle
+**Android:** flutter build appbundle
 
-IOS: flutter build ios
+**IOS:** flutter build ios
