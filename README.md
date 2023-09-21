@@ -15,7 +15,9 @@ Lütfen unutmayın, bu demo eksik özelliklere sahip olup bitmemiş bir projeyi 
 
 ### render:
 Web: flutter build web --web-renderer html
+
 Android flutter build appbundle
+
 IOS: flutter build ios
 
 ## Engilish:
@@ -32,5 +34,7 @@ Please note that this demo represents an incomplete project with missing feature
 
 ### render:
 Web: flutter build web --web-renderer html
+
 Android flutter build appbundle
+
 IOS: flutter build ios
