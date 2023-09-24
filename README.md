@@ -1,4 +1,4 @@
-## Turkish:
+## Turkish
 ## Isportal
 
 ### Deprem Bölgesindeki İnsanlar İçin İş Bulma Platformu | Freelance Proje | Tarih: 01.03.2023 - 20.08.2023
@@ -20,7 +20,7 @@ Lütfen unutmayın, bu demo eksik özelliklere sahip olup bitmemiş bir projeyi 
 
 **IOS:** flutter build ios
 
-## Engilish:
+## Engilish
 ## Isportal
 
 ### Job Finding Platform for Earthquake-Affected Individuals | Freelance Project | Date: 01.03.2023 - 20.08.2023
