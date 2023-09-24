@@ -5,9 +5,6 @@
 
 Deprem bölgesindeki bireylerin iş bulabilmesine yönelik bir firma için freelance olarak iş bulma platformu geliştirdim. Flutter ile hem mobil hem de web platformları için optimize edilmiş bir uygulama hazırladım. Proje %80 tamamlanmışken, firma tarafından iptal edildi. Bu nedenle, projede bazı eksiklikler bulunmaktadır. Ancak, bu durumu fırsata çevirerek, projemi topluluğun yararlanabilmesi için ücretsiz olarak GitHub üzerinde yayınladım.
 
-Projenin kaynak kodlarına: GitHub
-Demo için: cv.ahmetbalkan.com.tr
-
 ## Demo
 Proje demosunu görmek için: [cv.ahmetbalkan.com.tr](http://cv.ahmetbalkan.com.tr)
 
